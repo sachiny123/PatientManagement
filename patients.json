@@ -1,0 +1,62 @@
+{
+  "P001": {
+    "name": "Rahul Verma",
+    "city": "Delhi",
+    "age": "34",
+    "gender": "male",
+    "height": 1.72,
+    "weight": 78.0,
+    "bmi": 26.37,
+    "verdict": "overweight"
+  },
+  "P002": {
+    "name": "Sneha Iyer",
+    "city": "Chennai",
+    "age": "25",
+    "gender": "female",
+    "height": 1.6,
+    "weight": 54.0,
+    "bmi": 21.09,
+    "verdict": "normal"
+  },
+  "P003": {
+    "name": "Amit Kulkarni",
+    "city": "Pune",
+    "age": "41",
+    "gender": "male",
+    "height": 1.68,
+    "weight": 92.0,
+    "bmi": 32.6,
+    "verdict": "obese"
+  },
+  "P004": {
+    "name": "Neha Singh",
+    "city": "Lucknow",
+    "age": "30",
+    "gender": "female",
+    "height": 1.58,
+    "weight": 46.0,
+    "bmi": 18.43,
+    "verdict": "underweight"
+  },
+  "P005": {
+    "name": "Rohan Das",
+    "city": "Kolkata",
+    "age": "27",
+    "gender": "male",
+    "height": 1.75,
+    "weight": 68.0,
+    "bmi": 22.2,
+    "verdict": "normal"
+  },
+  "P006": {
+    "name": "sachin",
+    "city": "delhi",
+    "age": 22,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 62.0,
+    "bmi": 20.24,
+    "verdict": "Normal"
+  }
+}
